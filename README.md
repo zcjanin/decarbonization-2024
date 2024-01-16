@@ -1,4 +1,4 @@
-# Corporate Decarbonization
+# Corporate Decarbonization Research
 
 The goal of this project is to collect analyze data of the most prominent carbon-emitting as well as sustainably advanced 
 firms across the world.
@@ -7,7 +7,10 @@ firms across the world.
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
+- What was your motivation? 
+
+There is a lack of easily accessible, comparable company emissions data
+
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
 - What did you learn?
