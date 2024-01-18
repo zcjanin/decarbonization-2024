@@ -1,42 +1,27 @@
 # Corporate Decarbonization Research
 
-The goal of this project is to collect analyze data of the most prominent carbon-emitting as well as sustainably advanced 
-firms across the world.
-
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation? 
-
-There is a lack of easily accessible, comparable company emissions data
-
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The goal of this project is to create a simple database containing comparable corporate greenhouse gas emissions (GHG) and net-zero progress from high carbon-emitting firms. From this database, we analyzed GHG emissions and internal decarbonization strategies through observing trends in factors such as absolute emissions, total revenue, and carbon intensity encompassing the years 2017 through 2023 in order to understand the overall progress of prominent firms in reaching a net-zero future. The data contained in this preliminary analysis covers around 90 companies from four high-emitting sectors (energy, automobiles, food & agriculture, and technology) taken from a combination of sources, including the Carbon Disclosure Project (CDP), company sustainability reports, the U.S. Securities and Exchange Commission (SEC), and the Science Based Targets Initiative (SBTI). 
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+The file contents are as follows:
+    
+    |- README.md <- this file
+    |- Decarbo_EDA.ipynb <- Jupyter notebook containing data cleaning and EDA
+    |- data <- folder containing data from each industry sector in the form of csv files
+    |- - auto23.csv
+    |- - energy23.csv
+    |- - foodag23.csv
+    |- - tech23.csv
+    
 
 ## Credits
 
@@ -52,7 +37,7 @@ The last section of a high-quality README file is the license. This lets other d
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+# (OPTIONAL)
 
 ## Badges
 
@@ -60,14 +45,6 @@ The last section of a high-quality README file is the license. This lets other d
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
-## Features
-
-If your project has a lot of features, list them here.
-
 ## How to Contribute
 
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
