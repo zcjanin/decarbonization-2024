@@ -1,0 +1,217 @@
+COMPANY NAME,YEAR,SCOPE 1,SCOPE 2 (location-based),SCOPE 3,TOTAL EMISSIONS,TOTAL REVENUE (miillion $),CURRENCY,CARBON INTENSITY,COUNTRY OF ORIGIN,SUBMIT TO CDP,SBTi TARGET SET?,SBTI COMMITMENTS,NET-ZERO TARGETS,SECTOR,REVENUE IN USD,Adjusted CI
+Anheuser-Busch InBev,2018,3700760.0,2383505.0,24431839.0,30516104.0,54619.0,USD,111.39,Belgium,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,54619.0,111.39
+Anheuser-Busch InBev,2019,3600710.0,2215902.0,26484447.0,32301059.0,52329.0,USD,111.15,Belgium,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,52329.0,111.15
+Anheuser-Busch InBev,2020,3081905.0,2227758.0,23652933.0,28962596.0,46881.0,USD,113.26,Belgium,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,46881.0,113.26
+Anheuser-Busch InBev,2021,2953896.0,2243990.0,26527444.0,31725330.0,54304.0,USD,95.72,Belgium,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,54304.0,95.72
+Anheuser-Busch InBev,2022,2843883.0,2029211.0,24136111.0,29009205.0,57786.0,USD,84.33,Belgium,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,57786.0,84.33
+Danone,2018,753461.0,959554.0,24885804.0,26598819.0,24651.0,EUR,69.49,France,True,True,[Near-term targets set],Carbon neutral by 2050,Food & Agriculture,28595.159999999996,59.91
+Danone,2019,722103.0,944877.0,46176955.0,47843935.0,25287.0,EUR,65.92,France,True,True,[Near-term targets set],Carbon neutral by 2051,Food & Agriculture,29332.92,56.83
+Danone,2020,668354.0,864710.0,26077215.0,27610279.0,25287.0,EUR,60.63,France,True,True,[Near-term targets set],Carbon neutral by 2052,Food & Agriculture,29332.92,52.26
+Danone,2021,682674.0,812948.0,23733344.0,25228966.0,24281.0,EUR,61.6,France,True,True,[Near-term targets set],Carbon neutral by 2053,Food & Agriculture,28165.96,53.1
+Danone,2022,666000.0,762805.0,22367000.0,23795805.0,27661.0,EUR,51.65,France,True,True,[Near-term targets set],Carbon neutral by 2054,Food & Agriculture,32086.76,44.53
+Diageo,2018,553270.0,179307.0,2665182.0,3397759.0,12163.0,GBP,60.23,England,True,True,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2030,Food & Agriculture,16663.31,43.96
+Diageo,2019,511593.0,165095.0,2764857.0,3441545.0,12867.0,GBP,52.59,England,True,True,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2031,Food & Agriculture,17627.79,38.39
+Diageo,2020,476782.0,143905.0,2608674.0,3229361.0,11752.0,GBP,52.82,England,True,True,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2032,Food & Agriculture,16100.240000000002,38.55
+Diageo,2021,445000.0,142530.0,4754945.0,5342475.0,12733.0,GBP,46.14,England,True,True,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2033,Food & Agriculture,17444.210000000003,33.68
+Diageo,2022,436000.0,157784.0,5723256.0,6317040.0,15452.0,GBP,38.43,England,True,True,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2034,Food & Agriculture,21169.24,28.05
+Kellogg’s,2018,483061.0,650835.0,12761542.0,13895438.0,13547.0,USD,83.7,United States,True,True,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2050,Food & Agriculture,13547.0,83.7
+Kellogg’s,2019,465885.0,590739.0,8128427.0,9185051.0,13578.0,USD,77.82,United States,True,True,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2051,Food & Agriculture,13578.0,77.82
+Kellogg’s,2020,465042.0,587999.0,6449011.0,7502052.0,13770.0,USD,76.47,United States,True,True,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2052,Food & Agriculture,13770.0,76.47
+Kellogg’s,2021,503905.0,568692.0,5723300.0,6795897.0,14181.0,USD,75.64,United States,True,True,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2053,Food & Agriculture,14181.0,75.64
+Kellogg’s,2022,497203.0,553526.0,6784604.0,7835333.0,15315.0,USD,68.61,United States,True,True,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2054,Food & Agriculture,15315.0,68.61
+Molson Coors,2018,436457.0,667174.0,4933363.0,6036994.0,13338.0,USD,82.74,"Canada, United States",True,True,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2025",Food & Agriculture,13338.0,82.74
+Molson Coors,2019,406377.0,634136.0,4572089.0,5612602.0,13009.0,USD,79.98,"Canada, United States",True,True,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2026",Food & Agriculture,13009.0,79.98
+Molson Coors,2020,398026.0,604422.0,4257376.0,5259824.0,11724.0,USD,85.51,"Canada, United States",True,True,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2027",Food & Agriculture,11724.0,85.5
+Molson Coors,2021,606319.0,342069.0,3961062.0,4909450.0,12450.0,USD,76.18,"Canada, United States",True,True,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2028",Food & Agriculture,12450.0,76.18
+Molson Coors,2022,603321.0,341701.0,3731920.0,4676942.0,12808.0,USD,73.78,"Canada, United States",True,True,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2029",Food & Agriculture,12808.0,73.78
+Nestlé,2018,3289012.0,3082573.0,107145316.0,113516901.0,91439.0,CHF,69.68,Switzerland,True,True,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2030",Food & Agriculture,99668.51000000001,63.93
+Nestlé,2019,3246367.0,3089029.0,107145316.0,113480712.0,92568.0,CHF,68.44,Switzerland,True,True,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2031",Food & Agriculture,100899.12000000001,62.79
+Nestlé,2020,3215404.0,3052234.0,117000828.0,123268466.0,84300.0,CHF,74.35,Switzerland,True,True,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2032",Food & Agriculture,91887.0,68.21
+Nestlé,2021,3372000.0,2600000.0,113720072.0,119692072.0,87088.0,CHF,68.57,Switzerland,True,True,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2033",Food & Agriculture,94925.92000000001,62.91
+Nestlé,2022,3240000.0,760000.0,108900000.0,112900000.0,94000.0,CHF,42.55,Switzerland,True,True,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2034",Food & Agriculture,102460.00000000001,39.04
+PepsiCo,2018,3577266.0,1629973.0,58668530.0,63875769.0,64661.0,USD,80.53,United States,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,64661.0,80.53
+PepsiCo,2019,3552415.0,1556523.0,48366225.0,53475163.0,67161.0,USD,76.07,United States,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,67161.0,76.07
+PepsiCo,2020,3552706.0,1719610.0,52604866.0,57877182.0,70372.0,USD,74.92,United States,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,70372.0,74.92
+PepsiCo,2021,3596712.0,1811114.0,56388182.0,61796008.0,79474.0,USD,68.05,United States,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,79474.0,68.05
+PepsiCo,2022,3481530.0,1834309.0,54947765.0,60263604.0,86392.0,USD,61.53,United States,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain,Food & Agriculture,86392.0,61.53
+Tesco,2018,1117480.0,995543.0,59795068.0,61908091.0,63911.0,GBP,33.06,England,True,False,,"Carbon neutral by 2035, net-zero by 2050",Food & Agriculture,87558.07,24.13
+Tesco,2019,1105183.0,859583.0,59817490.0,61782256.0,56500.0,GBP,34.77,England,True,False,,"Carbon neutral by 2035, net-zero by 2051",Food & Agriculture,77405.0,25.38
+Tesco,2020,1053131.0,718222.0,56241579.0,58012932.0,57887.0,GBP,30.6,England,True,False,,"Carbon neutral by 2035, net-zero by 2052",Food & Agriculture,79305.19,22.34
+Tesco,2021,1110098.0,642337.0,60258134.0,62010569.0,61344.0,GBP,28.57,England,True,False,,"Carbon neutral by 2035, net-zero by 2053",Food & Agriculture,84041.28000000001,20.85
+Tesco,2022,1039346.0,575462.0,75854334.0,77469142.0,65762.0,GBP,24.56,England,True,False,,"Carbon neutral by 2035, net-zero by 2054",Food & Agriculture,90093.94,17.92
+Unilever,2018,752804.0,1430659.0,60419810.0,62603273.0,50982.0,EUR,42.83,"Netherlands, United Kingdom",True,True,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2039",Food & Agriculture,59139.119999999995,36.92
+Unilever,2019,659028.0,1321648.0,56779687.0,58760363.0,51980.0,EUR,38.1,"Netherlands, United Kingdom",True,True,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2040",Food & Agriculture,60296.799999999996,32.85
+Unilever,2020,606771.0,1264328.0,58300345.0,60171445.0,50724.0,EUR,36.89,"Netherlands, United Kingdom",True,True,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2041",Food & Agriculture,58839.84,31.8
+Unilever,2021,565988.0,1244505.0,61445738.0,63256230.0,52444.0,EUR,34.52,"Netherlands, United Kingdom",True,True,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2042",Food & Agriculture,60835.03999999999,29.76
+Unilever,2022,503909.0,1224997.0,56442279.0,58171185.0,60073.0,EUR,28.78,"Netherlands, United Kingdom",True,True,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2043",Food & Agriculture,69684.68,24.81
+BP,2018,48800000.0,5400000.0,437000000.0,491200000.0,303738.0,USD,178.44,United Kingdom,False,False,,Net-zero by 2050,Energy,303738.0,178.44
+BP,2019,49200000.0,5200000.0,,54400000.0,282616.0,USD,192.49,United Kingdom,False,False,,Net-zero by 2050,Energy,282616.0,192.49
+BP,2020,41700000.0,3700000.0,327600000.0,373000000.0,109078.0,USD,416.22,United Kingdom,True,False,,Net-zero by 2050,Energy,109078.0,416.22
+BP,2021,33200000.0,2400000.0,303600000.0,339200000.0,164195.0,USD,216.82,United Kingdom,True,False,,Net-zero by 2050,Energy,164195.0,216.82
+BP,2022,30400000.0,2100000.0,306700000.0,339200000.0,248891.0,USD,130.58,United Kingdom,True,False,,Net-zero by 2050,Energy,248891.0,130.58
+Chevron,2018,66000000.0,3000000.0,1023000000.0,1092000000.0,158902.0,USD,434.23,United States,False,False,,Net zero upstream emissions (scope 1 and 2),Energy,158902.0,434.23
+Chevron,2019,62000000.0,2000000.0,1033000000.0,1097000000.0,139865.0,USD,457.58,United States,False,False,,Net zero upstream emissions (scope 1 and 2),Energy,139865.0,457.58
+Chevron,2020,54000000.0,4000000.0,980000000.0,1038000000.0,94471.0,USD,613.95,United States,False,False,,Net zero upstream emissions (scope 1 and 2),Energy,94471.0,613.95
+Chevron,2021,57000000.0,4000000.0,1071000000.0,1132000000.0,155606.0,USD,392.02,United States,False,False,,Net zero upstream emissions (scope 1 and 2),Energy,155606.0,392.02
+Chevron,2022,53000000.0,4000000.0,1034000000.0,1091000000.0,235717.0,USD,241.82,United States,False,False,,Net zero upstream emissions (scope 1 and 2),Energy,235717.0,241.82
+EDF,2018,35699738.0,470025.0,110759561.0,146929324.0,75794.0,EUR,477.21,France,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2050,Energy,87921.04,411.39
+EDF,2019,33090244.0,289243.0,119363628.0,152743115.0,78367.0,EUR,425.94,France,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2050,Energy,90905.71999999999,367.19
+EDF,2020,27690997.0,320773.0,106649250.0,134661020.0,75855.0,EUR,369.28,France,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2050,Energy,87991.79999999999,318.35
+EDF,2021,27381075.0,288947.0,101804919.0,129474941.0,92810.0,EUR,298.14,France,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2050,Energy,107659.59999999999,257.01
+EDF,2022,23817090.0,388819.0,95917659.0,120123568.0,143476.0,EUR,168.71,France,True,True,"[Near-term targets set, net-zero committed]",Net-zero by 2050,Energy,166432.15999999997,145.44
+Enel,2018,6816597.0,115000.0,5261003.0,12192600.0,13184.0,USD,525.76,Italy,False,True,"[Near-term targets set, net-zero targets set]",Net-zero by 2040,Energy,13184.0,525.76
+Enel,2019,6963813.0,770163.0,5819007.0,13552983.0,14314.0,USD,540.31,Italy,False,True,"[Near-term targets set, net-zero targets set]",Net-zero by 2040,Energy,14314.0,540.31
+Enel,2020,6895903.0,548948.0,5315425.0,12760276.0,12193.0,USD,610.58,Italy,True,True,"[Near-term targets set, net-zero targets set]",Net-zero by 2040,Energy,12193.0,610.58
+Enel,2021,7276000.0,721000.0,6000610.0,13997610.0,16192.0,USD,493.89,Italy,True,True,"[Near-term targets set, net-zero targets set]",Net-zero by 2040,Energy,16192.0,493.89
+Enel,2022,6560000.0,1010000.0,9504170.0,17074170.0,16265.0,USD,465.42,Italy,True,True,"[Near-term targets set, net-zero targets set]",Net-zero by 2040,Energy,16265.0,465.42
+Equinor,2018,14946447.0,194063.0,314102157.0,329242667.0,79593.0,USD,190.22,Norway,True,False,,Net-zero by 2050,Energy,79593.0,190.22
+Equinor,2019,14719266.0,215474.0,258995398.0,273930138.0,64357.0,USD,232.06,Norway,True,False,,Net-zero by 2050,Energy,64357.0,232.06
+Equinor,2020,13294578.0,251513.0,271036800.0,284582891.0,45818.0,USD,295.65,Norway,True,False,,Net-zero by 2050,Energy,45818.0,295.65
+Equinor,2021,12009607.0,97048.0,268747731.0,280854386.0,90924.0,USD,133.15,Norway,True,False,,Net-zero by 2050,Energy,90924.0,133.15
+Equinor,2022,11365833.0,68581.0,268367000.0,279801414.0,150806.0,USD,75.82,Norway,True,False,,Net-zero by 2050,Energy,150806.0,75.82
+Exxon,2018,104000000.0,9000000.0,,113000000.0,290212.0,USD,389.37,United States,False,False,,Net-zero operated Scope 1-2 by 2050,Energy,290212.0,389.37
+Exxon,2019,106000000.0,9000000.0,,115000000.0,264938.0,USD,434.06,United States,False,False,,Net-zero operated Scope 1-2 by 2050,Energy,264938.0,434.06
+Exxon,2020,100000000.0,9000000.0,,109000000.0,181502.0,USD,600.54,United States,False,False,,Net-zero operated Scope 1-2 by 2050,Energy,181502.0,600.54
+Exxon,2021,95000000.0,7000000.0,,102000000.0,285640.0,USD,357.09,United States,False,False,,Net-zero operated Scope 1-2 by 2050,Energy,285640.0,357.09
+Exxon,2022,96000000.0,7000000.0,530000000.0,633000000.0,413680.0,USD,248.98,United States,False,False,,Net-zero operated Scope 1-2 by 2050,Energy,413680.0,248.98
+Gazprom,2018,120089856.0,8198070.0,,128287926.0,4303671.0,RUB,,Russsia,True,False,,Net-zero by 2050,Energy,60251.394,2129.21
+Gazprom,2019,117097372.0,6077827.0,1154544765.0,1277719964.0,3311117.0,RUB,,Russsia,True,False,,Net-zero by 2050,Energy,46355.638,2657.18
+Gazprom,2020,100970512.0,4762910.0,1078493075.0,1184226497.0,3049339.0,RUB,,Russsia,True,False,,Net-zero by 2050,Energy,42690.746,2476.73
+Gazprom,2021,11987000.0,6080000.0,1150750000.0,1168817000.0,,RUB,,Russsia,False,False,,Net-zero by 2050,Energy,,
+Gazprom,2022,91000000.0,4020000.0,,95020000.0,,RUB,,Russsia,False,False,,Net-zero by 2050,Energy,,
+Orsted,2018,3483000.0,151000.0,36234400.0,39868400.0,76946.0,DKK,47.23,Denmark,True,True,"[Near-term targets set, net-zero targets set]",Net-zero Scope 1-2 by 2025,Energy,11541.9,314.85
+Orsted,2019,1846000.0,123000.0,33864140.0,35833140.0,67842.0,DKK,29.02,Denmark,True,True,"[Near-term targets set, net-zero targets set]",Net-zero operated Scope 1-2 by 2050,Energy,10176.3,193.49
+Orsted,2020,1851000.0,111000.0,25333000.0,27295000.0,52601.0,DKK,37.3,Denmark,True,True,"[Near-term targets set, net-zero targets set]",Net-zero operated Scope 1-2 by 2050,Energy,7890.15,248.66
+Orsted,2021,2142000.0,53000.0,18179000.0,20374000.0,77673.0,DKK,28.26,Denmark,True,True,"[Near-term targets set, net-zero targets set]",Net-zero operated Scope 1-2 by 2050,Energy,11650.949999999999,188.4
+Orsted,2022,2510000.0,45000.0,10984000.0,13539000.0,132227.0,DKK,19.32,Denmark,True,True,"[Near-term targets set, net-zero targets set]",Net-zero operated Scope 1-2 by 2050,Energy,19834.05,128.82
+Oxy,2018,10370000.0,4100000.0,71000000.0,85470000.0,17824.0,USD,811.83,United States,True,False,,"Net-zero scope 1-2 by 2040, scope 1-3 by 2050",Energy,17824.0,811.83
+Oxy,2019,21618709.0,5905273.0,259100000.0,286623982.0,20911.0,USD,1316.24,United States,True,False,,"Net-zero scope 1-2 by 2040, scope 1-3 by 2050",Energy,20911.0,1316.24
+Oxy,2020,19015138.0,4807697.0,225900000.0,249722835.0,17809.0,USD,1337.69,United States,True,False,,"Net-zero scope 1-2 by 2040, scope 1-3 by 2050",Energy,17809.0,1337.69
+Oxy,2021,18495103.0,4844808.0,211800000.0,235139911.0,25956.0,USD,899.21,United States,True,False,,"Net-zero scope 1-2 by 2040, scope 1-3 by 2050",Energy,25956.0,899.21
+Oxy,2022,18454662.0,4903258.0,217000000.0,240357920.0,36634.0,USD,637.6,United States,True,False,,"Net-zero scope 1-2 by 2040, scope 1-3 by 2050",Energy,36634.0,637.6
+PetroChina,2018,,,,,,RMB,,China,True,False,,"Strive to achieve ""near-zero"" by 2050",Energy,,
+PetroChina,2019,132170000.0,41910000.0,,174080000.0,17380.0,RMB,10016.11,China,True,False,,"Strive to achieve ""near-zero"" by 2050",Energy,126700.2,1373.95
+PetroChina,2020,127570000.0,39870000.0,,167440000.0,11032.0,RMB,15177.66,China,False,False,,"Strive to achieve ""near-zero"" by 2050",Energy,80423.28,2081.98
+PetroChina,2021,121390000.0,38150000.0,,159540000.0,18642.0,RMB,8558.09,China,False,False,,"Strive to achieve ""near-zero"" by 2050",Energy,135900.18,1173.95
+PetroChina,2022,119680000.0,40880000.0,,160560000.0,25702.0,RMB,6246.98,China,False,False,,"Strive to achieve ""near-zero"" by 2050",Energy,187367.58,856.93
+Rosneft,2018,54700000.0,22200000.0,244300000.0,,,RUB,,Russsia,True,False,,Net-zero by 2050,Energy,,
+Rosneft,2019,59400000.0,21800000.0,301000000.0,,,RUB,,Russsia,True,False,,Net-zero by 2050,Energy,,
+Rosneft,2020,60900000.0,20100000.0,280000000.0,,,RUB,,Russsia,True,False,,Net-zero by 2050,Energy,,
+Rosneft,2021,54200000.0,18500000.0,,,,RUB,,Russsia,False,False,,Net-zero by 2050,Energy,,
+Rosneft,2022,,,,,,,,,,False,,Net-zero by 2050,Energy,,
+Saudi Aramco,2018,,,,,,,,Saudi Arabia,False,False,,Net-zero Scope 1-2 across wholly-owned operated assets by 2050,Energy,,
+Saudi Aramco,2019,,,,,,,,Saudi Arabia,False,False,,Net-zero Scope 1-2 across wholly-owned operated assets by 2050,Energy,,
+Saudi Aramco,2020,50200000.0,18100000.0,,68300000.0,,,,Saudi Arabia,False,False,,Net-zero Scope 1-2 across wholly-owned operated assets by 2050,Energy,,
+Saudi Aramco,2021,52300000.0,15500000.0,,67800000.0,,,,Saudi Arabia,False,False,,Net-zero Scope 1-2 across wholly-owned operated assets by 2050,Energy,,
+Saudi Aramco,2022,55780000.0,16100000.0,,71880000.0,,,,Saudi Arabia,False,False,,Net-zero Scope 1-2 across wholly-owned operated assets by 2050,Energy,,
+Shell,2018,71000000.0,11000000.0,696770000.0,778770000.0,396556.0,USD,206.78,"United Kingdom, Netherlands",True,False,,Net-zero by 2050,Energy,396556.0,206.78
+Shell,2019,70000000.0,11000000.0,693200000.0,774200000.0,352106.0,USD,230.04,"United Kingdom, Netherlands",True,False,,Net-zero by 2050,Energy,352106.0,230.04
+Shell,2020,63000000.0,11000000.0,1343550000.0,1417550000.0,183195.0,USD,403.94,"United Kingdom, Netherlands",True,False,,Net-zero by 2050,Energy,183195.0,403.94
+Shell,2021,60000000.0,9000000.0,1344423000.0,1413423000.0,272657.0,USD,253.07,"United Kingdom, Netherlands",True,False,,Net-zero by 2050,Energy,272657.0,253.07
+Shell,2022,51000000.0,8000000.0,1204294000.0,1263294000.0,386201.0,USD,152.77,"United Kingdom, Netherlands",True,False,,Net-zero by 2050,Energy,386201.0,152.77
+BMW,2017,625072.0,1572432.0,71690753.0,73888257.0,98678.0,EUR,22.27,Germany,True,True,"Near-term targets set, net-zero committed",Climate-neutrality along value chain by 2050,Auto,114466.48,19.2
+BMW,2018,581703.0,1539378.0,73093077.0,75214158.0,97480.0,EUR,21.76,Germany,True,True,"Near-term targets set, net-zero committed",Climate-neutrality along value chain by 2050,Auto,113076.79999999999,18.76
+BMW,2019,678403.0,1540667.0,132520346.0,134739416.0,104210.0,EUR,21.29,Germany,True,True,"Near-term targets set, net-zero committed",Climate-neutrality along value chain by 2050,Auto,120883.59999999999,18.36
+BMW,2020,678967.0,1333076.0,117682832.0,119694875.0,98990.0,EUR,20.33,Germany,True,True,"Near-term targets set, net-zero committed",Climate-neutrality along value chain by 2050,Auto,114828.4,17.52
+BMW,2021,699713.0,1404348.0,121705367.0,123809428.0,111239.0,EUR,18.91,Germany,True,True,"Near-term targets set, net-zero committed",Climate-neutrality along value chain by 2050,Auto,129037.23999999999,16.31
+BMW,2022,694057.0,1187339.0,116586786.0,118468182.0,142610.0,EUR,13.19,Germany,True,True,"Near-term targets set, net-zero committed",Climate-neutrality along value chain by 2050,Auto,165427.59999999998,11.37
+BYD,2017,,,,,14297.0,RMB,227.92,China,False,False,,Carbon-neutrality in 2060,Auto,104225.13,
+BYD,2018,,,,,18113.0,RMB,158.17,China,False,False,,Carbon-neutrality in 2060,Auto,132043.77,
+BYD,2019,,,,,17791.0,RMB,225.05,China,False,False,,Carbon-neutrality in 2060,Auto,129696.39,
+BYD,2020,199406.0,3945773.0,,,21810.0,RMB,190.06,China,False,False,,Carbon-neutrality in 2060,Auto,158994.9,26.07
+BYD,2021,315610.0,4903502.0,,,30103.0,RMB,173.38,China,False,False,,Carbon-neutrality in 2060,Auto,219450.87,23.78
+BYD,2022,550932.0,7511038.0,123025950.0,131087920.0,59061.0,RMB,136.5,China,False,False,,Carbon-neutrality in 2060,Auto,430554.69,18.72
+Daimler/Mercedes,2017,1192000.0,2041000.0,82530800.0,85763800.0,164330.0,EUR,19.67,Germany,True,True,Near-term targets set,Target of making fleet of new passenger cars carbon-beutral over the vehicles' entire life cycle by 2039,Auto,190622.8,16.96
+Daimler/Mercedes,2018,1247000.0,1687000.0,79300000.0,82234000.0,184000.0,EUR,15.95,Germany,True,True,Near-term targets set,Target of making fleet of new passenger cars carbon-beutral over the vehicles' entire life cycle by 2039,Auto,213439.99999999997,13.75
+Daimler/Mercedes,2019,1239000.0,1706000.0,144408800.0,147353800.0,189875.0,EUR,15.51,Germany,True,True,Near-term targets set,Target of making fleet of new passenger cars carbon-beutral over the vehicles' entire life cycle by 2039,Auto,220254.99999999997,13.37
+Daimler/Mercedes,2020,1027000.0,1492000.0,102237000.0,104756000.0,169611.0,EUR,14.85,Germany,True,True,Near-term targets set,Target of making fleet of new passenger cars carbon-beutral over the vehicles' entire life cycle by 2039,Auto,196748.75999999998,12.8
+Daimler/Mercedes,2021,681000.0,1123000.0,123158000.0,124962000.0,147170.0,EUR,12.26,Germany,,True,Near-term targets set,Target of making fleet of new passenger cars carbon-beutral over the vehicles' entire life cycle by 2039,Auto,170717.19999999998,10.57
+Daimler/Mercedes,2022,569000.0,1121000.0,123025950.0,124715950.0,150017.0,EUR,11.27,Germany,,True,Near-term targets set,Target of making fleet of new passenger cars carbon-beutral over the vehicles' entire life cycle by 2039,Auto,174019.72,9.71
+Fiat-Chrysler,2017,1101289.0,3309598.0,124729588.0,129140475.0,122066.0,EUR,36.14,"Italy, United States",,True,,Net-zero by 2038,Auto,141596.56,31.15
+Fiat-Chrysler,2018,1129268.0,2795995.0,115993925.0,119919188.0,121491.0,EUR,32.31,"Italy, United States",,True,,Net-zero by 2038,Auto,140929.56,27.85
+Fiat-Chrysler,2019,1058367.0,2296709.0,122750694.0,126105770.0,119043.0,EUR,28.18,"Italy, United States",,True,,Net-zero by 2038,Auto,138089.88,24.3
+Fiat-Chrysler,2020,877603.0,1983910.0,,,95244.0,EUR,30.04,"Italy, United States",,True,,Net-zero by 2038,Auto,110483.04,25.9
+Fiat-Chrysler,2021,1700000.0,2200000.0,523305000.0,527205000.0,164189.0,EUR,23.75,"Italy, United States",,True,,Net-zero by 2038,Auto,190459.24,20.48
+Fiat-Chrysler,2022,1500000.0,1900000.0,447230000.0,450630000.0,197345.0,EUR,17.23,"Italy, United States",,True,,Net-zero by 2038,Auto,228920.19999999998,14.85
+Ford,2017,1391127.0,3482444.0,211807837.0,216681408.0,145700.0,USD,33.45,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality no later than 2050 (2035 in Europe),Auto,145700.0,33.45
+Ford,2018,1442963.0,3349808.0,174463469.0,179256240.0,160300.0,USD,29.9,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality no later than 2050 (2035 in Europe),Auto,160300.0,29.9
+Ford,2019,1451947.0,3195704.0,187993867.0,192641518.0,155900.0,USD,29.81,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality no later than 2050 (2035 in Europe),Auto,155900.0,29.81
+Ford,2020,1124798.0,2715328.0,349281992.0,353122118.0,127144.0,USD,30.2,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality no later than 2050 (2035 in Europe),Auto,127144.0,30.2
+Ford,2021,1069907.0,2616003.0,299853676.0,303539586.0,136300.0,USD,27.04,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality no later than 2050 (2035 in Europe),Auto,136300.0,27.04
+Ford,2022,1197739.0,2557313.0,370223094.0,373978146.0,158100.0,USD,23.75,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality no later than 2050 (2035 in Europe),Auto,158100.0,23.75
+Geely,2017,126934.0,346173.0,,,12973.0,RMB,36.47,China,False,True,"Near-term committed, net-zero committed",Carbon-neutrality by 2045,Auto,94573.17,5.0
+Geely,2018,138921.0,425622.0,,,14908.0,RMB,37.87,China,False,True,"Near-term committed, net-zero committed",Carbon-neutrality by 2045,Auto,108679.32,5.19
+Geely,2019,141100.0,418180.0,,,13622.0,RMB,41.06,China,False,True,"Near-term committed, net-zero committed",Carbon-neutrality by 2045,Auto,99304.38,5.63
+Geely,2020,166395.0,518514.0,34097000.0,34781908.0,12883.0,RMB,53.16,China,False,True,"Near-term committed, net-zero committed",Carbon-neutrality by 2045,Auto,93917.07,7.29
+Geely,2021,263159.0,867943.0,102344820.0,103475922.0,14211.0,RMB,79.59,China,False,True,"Near-term committed, net-zero committed",Carbon-neutrality by 2045,Auto,103598.19,10.92
+Geely,2022,249291.0,655705.0,101818690.0,102723686.0,20694.0,RMB,43.73,China,False,True,"Near-term committed, net-zero committed",Carbon-neutrality by 2050,Auto,150859.26,6.0
+General Motors,2017,1848804.0,4572734.0,280849954.0,287271492.0,145588.0,USD,44.11,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality in global products and operations by 2040,Auto,145588.0,44.11
+General Motors,2018,1763555.0,4322761.0,264495398.0,270581714.0,147049.0,USD,41.39,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality in global products and operations by 2040,Auto,147049.0,41.39
+General Motors,2019,1589700.0,4381970.0,249313396.0,255285066.0,137237.0,USD,43.51,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality in global products and operations by 2040,Auto,137237.0,43.51
+General Motors,2020,1214124.0,3087816.0,254440148.0,258742088.0,108669.0,USD,39.59,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality in global products and operations by 2040,Auto,108669.0,39.59
+General Motors,2021,1252906.0,2881767.0,233167875.0,237302548.0,113584.0,USD,36.4,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality in global products and operations by 2040,Auto,113584.0,36.4
+General Motors,2022,1466452.0,2996074.0,272722605.0,277185131.0,143974.0,USD,31.0,United States,True,True,"Near-term targets set, net-zero committed",Carbon-neutrality in global products and operations by 2045,Auto,143974.0,31.0
+Honda,2017,1350000.0,3790000.0,314067700.0,319207700.0,15400000.0,JPY,0.33,Japan,True,False,,Net-zero by 2050,Auto,138600.0,37.09
+Honda,2018,1380000.0,3690000.0,310718300.0,315788300.0,15900000.0,JPY,0.32,Japan,True,False,,Net-zero by 2050,Auto,143100.0,35.43
+Honda,2019,1240000.0,3440000.0,297816499.0,302496499.0,14900000.0,JPY,0.31,Japan,True,False,,Net-zero by 2050,Auto,134100.0,34.9
+Honda,2020,1120000.0,3050000.0,244758486.0,248928486.0,13170000.0,JPY,0.32,Japan,True,False,,Net-zero by 2050,Auto,118529.99999999999,35.18
+Honda,2021,1160244.0,3245113.0,275724920.0,280130277.0,14552600.0,JPY,0.3,Japan,True,False,,Net-zero by 2050,Auto,130973.4,33.64
+Honda,2022,1090000.0,3249764.0,284409746.0,288749510.0,16907700.0,JPY,0.26,Japan,True,False,,Net-zero by 2050,Auto,152169.3,28.52
+Hyundai,2017,852547.0,1882674.0,7051724.0,9786945.0,75716.0,KRW,36.12,South Korea,False,True,"(Engineering & Construction) Near-term targets set, (MOBIS Co., Ltd.) Near-term committed, (MOBIS Co., Ltd.) Net-zero committed",Net-zero throughout value chain by 2045,Auto,68.1444,40138.6
+Hyundai,2018,874997.0,1936902.0,5582405.0,8394304.0,75807.0,KRW,37.09,South Korea,False,True,"(Engineering & Construction) Near-term targets set, (MOBIS Co., Ltd.) Near-term committed, (MOBIS Co., Ltd.) Net-zero committed",Net-zero throughout value chain by 2045,Auto,68.2263,41214.3
+Hyundai,2019,807498.0,1897855.0,120382017.0,123087370.0,82802.0,KRW,32.67,South Korea,False,True,"(Engineering & Construction) Near-term targets set, (MOBIS Co., Ltd.) Near-term committed, (MOBIS Co., Ltd.) Net-zero committed",Net-zero throughout value chain by 2045,Auto,74.5218,36302.84
+Hyundai,2020,716237.0,1680079.0,100536484.0,102932800.0,81433.0,KRW,29.43,South Korea,False,True,"(Engineering & Construction) Near-term targets set, (MOBIS Co., Ltd.) Near-term committed, (MOBIS Co., Ltd.) Net-zero committed",Net-zero throughout value chain by 2045,Auto,73.2897,32696.49
+Hyundai,2021,723966.0,1660238.0,101790793.0,104174997.0,92092.0,KRW,25.89,South Korea,False,True,"(Engineering & Construction) Near-term targets set, (MOBIS Co., Ltd.) Near-term committed, (MOBIS Co., Ltd.) Net-zero committed",Net-zero throughout value chain by 2045,Auto,82.8828,28765.97
+Tesla,2017,,,,,11759.0,USD,23.98,United States,False,True,Near-term committed,,Auto,11759.0,
+Tesla,2018,,,,,21461.0,USD,,United States,False,True,Near-term committed,,Auto,21461.0,
+Tesla,2019,,,,,24578.0,USD,,United States,False,True,Near-term committed,,Auto,24578.0,
+Tesla,2020,,,,,31536.0,USD,,United States,False,True,Near-term committed,,Auto,31536.0,
+Tesla,2021,185000.0,403000.0,1954000.0,2542000.0,53823.0,USD,10.92,United States,False,True,Near-term committed,,Auto,53823.0,10.92
+Tesla,2022,202000.0,408000.0,30100000.0,30710000.0,81462.0,USD,7.49,United States,False,True,Near-term committed,,Auto,81462.0,7.49
+Toyota,2017,2604655.0,5265425.0,401742000.0,409612080.0,196433.0,JPY,40.07,Japan,True,True,Near-term targets set,Carbon-neutrality across vehicle life cycle by 2050,Auto,1767.897,4451.66
+Toyota,2018,2554577.0,5238108.0,412184600.0,419977285.0,209119.0,JPY,37.26,Japan,True,True,Near-term targets set,Carbon-neutrality across vehicle life cycle by 2050,Auto,1882.071,4140.48
+Toyota,2019,1904119.0,4244743.0,397940000.0,404088862.0,215142.0,JPY,28.58,Japan,True,True,Near-term targets set,Carbon-neutrality across vehicle life cycle by 2050,Auto,1936.2779999999998,3175.61
+Toyota,2020,1642074.0,3684721.0,341344044.0,346670839.0,213037.0,JPY,25.0,Japan,True,True,Near-term targets set,Carbon-neutrality across vehicle life cycle by 2050,Auto,1917.3329999999999,2778.23
+Toyota,2021,2560000.0,3900000.0,373340317.0,379800317.0,193709.0,JPY,33.35,Japan,True,True,Near-term targets set,Carbon-neutrality across vehicle life cycle by 2050,Auto,1743.3809999999999,3705.44
+Toyota,2022,2370000.0,3810000.0,573825072.0,580005072.0,223355.0,JPY,27.67,Japan,True,True,Near-term targets set,Carbon-neutrality across vehicle life cycle by 2050,Auto,2010.195,3074.33
+Volkswagen,2017,4297748.0,5901889.0,340767244.0,350966881.0,216479.0,EUR,47.12,Germany,True,True,Near-term targets set,Net-zero by 2050,Auto,251115.63999999998,40.62
+Volkswagen,2018,4068261.0,6370514.0,427972277.0,438411052.0,259237.0,EUR,40.27,Germany,True,True,Near-term targets set,Net-zero by 2050,Auto,300714.92,34.71
+Volkswagen,2019,4494068.0,5973894.0,447225434.0,457693396.0,277684.0,EUR,37.7,Germany,True,True,Near-term targets set,Net-zero by 2050,Auto,322113.44,32.5
+Volkswagen,2020,4335495.0,5257618.0,368258661.0,377851774.0,244986.0,EUR,39.16,Germany,True,True,Near-term targets set,Net-zero by 2050,Auto,284183.76,33.76
+Volkswagen,2021,4740873.0,5195961.0,364179966.0,374116800.0,250200.0,EUR,39.72,Germany,True,True,Near-term targets set,Net-zero by 2050,Auto,290232.0,34.24
+Volkswagen,2022,4461403.0,4650011.0,395681718.0,404793132.0,279232.0,EUR,32.63,Germany,True,True,Near-term targets set,Net-zero by 2050,Auto,323909.12,28.13
+Alphabet,2018,63521.0,4344686.0,12900467.0,17308674.0,136819.0,USD,32.22,United States,True,True,Near-term committed,Net-zero by 2030,Tech,136819.0,32.22
+Alphabet,2019,66686.0,5116949.0,11669000.0,16852635.0,161857.0,USD,32.03,United States,True,True,Near-term committed,Net-zero by 2030,Tech,161857.0,32.03
+Alphabet,2020,38694.0,5865095.0,9376000.0,15279789.0,182527.0,USD,32.34,United States,True,True,Near-term committed,Net-zero by 2030,Tech,182527.0,32.34
+Alphabet,2021,45073.0,6576239.0,9503000.0,16124312.0,257637.0,USD,25.7,United States,True,True,Near-term committed,Net-zero by 2030,Tech,257637.0,25.7
+Alphabet,2022,91200.0,8045400.0,7600000.0,15736600.0,282836.0,USD,28.77,United States,True,True,Near-term committed,Net-zero by 2030,Tech,282836.0,28.77
+Amazon,2018,4980000.0,4710000.0,34710000.0,44400000.0,232887.0,USD,41.61,United States,False,True,Near-term commitment removed,Net-zero by 2040,Tech,232887.0,41.61
+Amazon,2019,5760000.0,5500000.0,39910000.0,51170000.0,280522.0,USD,40.14,United States,False,True,Near-term commitment removed,Net-zero by 2040,Tech,280522.0,40.14
+Amazon,2020,9620000.0,5270000.0,45750000.0,60640000.0,386064.0,USD,38.57,United States,False,True,Near-term commitment removed,Net-zero by 2040,Tech,386064.0,38.57
+Amazon,2021,12110000.0,4070000.0,55360000.0,71540000.0,469822.0,USD,34.44,United States,False,True,Near-term commitment removed,Net-zero by 2040,Tech,469822.0,34.44
+Amazon,2022,13401400.0,12768034.0,54977815.0,81147249.0,513983.0,USD,50.91,United States,False,True,Near-term commitment removed,Net-zero by 2040,Tech,513983.0,50.91
+Apple,2018,57440.0,8730.0,25070000.0,25136170.0,265595.0,USD,0.249,United States,True,True,Near-term targets set,"Carbon-neutrality for entire carbon footprint, including products, by 2030",Tech,265595.0,0.25
+Apple,2019,52730.0,862127.0,24980000.0,25894857.0,260174.0,USD,3.516,United States,True,True,Near-term targets set,"Carbon-neutrality for entire carbon footprint, including products, by 2030",Tech,260174.0,3.52
+Apple,2020,47430.0,890200.0,22547000.0,23484630.0,274515.0,USD,3.416,United States,True,True,Near-term targets set,"Carbon-neutrality for entire carbon footprint, including products, by 2030",Tech,274515.0,3.42
+Apple,2021,55200.0,890200.0,23128400.0,24073800.0,365817.0,USD,2.584,United States,True,True,Near-term targets set,"Carbon-neutrality for entire carbon footprint, including products, by 2030",Tech,365817.0,2.58
+Apple,2022,55202.0,1065405.0,20550000.0,21670607.0,394328.0,USD,2.842,United States,True,True,Near-term targets set,"Carbon-neutrality for entire carbon footprint, including products, by 2030",Tech,394328.0,2.84
+Meta,2018,42000.0,1241000.0,652000.0,1935000.0,55838.0,USD,22.977,United States,False,False,,Net-zero by 2030,Tech,55838.0,22.98
+Meta,2019,44000.0,1885000.0,4078000.0,6007000.0,70697.0,USD,27.285,United States,False,False,,Net-zero by 2030,Tech,70697.0,27.29
+Meta,2020,29000.0,2718000.0,5091000.0,7838000.0,85965.0,USD,31.955,United States,False,False,,Net-zero by 2030,Tech,85965.0,31.95
+Meta,2021,55173.0,3080194.0,5651459.0,8786826.0,117929.0,USD,26.587,United States,True,False,,Net-zero by 2030,Tech,117929.0,26.59
+Meta,2022,66934.0,3921611.0,8466248.0,12454793.0,116609.0,USD,34.204,United States,True,False,,Net-zero by 2030,Tech,116609.0,34.2
+Microsoft,2018,90723.0,3000523.0,17834520.0,20925766.0,110360.0,USD,28.011,United States,True,True,"Near-term targets set, net-zero committed","Carbon-negative by 2030, remove all historical emissions by 2050",Tech,110360.0,28.01
+Microsoft,2019,113412.0,3556553.0,11322527.0,14992492.0,125843.0,USD,29.163,United States,True,True,"Near-term targets set, net-zero committed","Carbon-negative by 2030, remove all historical emissions by 2050",Tech,125843.0,29.16
+Microsoft,2020,118100.0,4102445.0,10817756.0,15038301.0,143015.0,USD,29.511,United States,True,True,"Near-term targets set, net-zero committed","Carbon-negative by 2030, remove all historical emissions by 2050",Tech,143015.0,29.51
+Microsoft,2021,123704.0,4745197.0,13784501.0,18653402.0,168088.0,USD,28.966,United States,True,True,"Near-term targets set, net-zero committed","Carbon-negative by 2030, remove all historical emissions by 2050",Tech,168088.0,28.97
+Microsoft,2022,139413.0,6381250.0,18863000.0,25383663.0,198270.0,USD,32.888,United States,True,True,"Near-term targets set, net-zero committed","Carbon-negative by 2030, remove all historical emissions by 2050",Tech,198270.0,32.89
+Samsung,2018,4855000.0,10318000.0,38234000.0,53407000.0,201800000.0,KRW,0.075,South Korea,True,False,,Net-zero by 2050,Tech,181620.0,83.54
+Samsung,2019,5067000.0,10998000.0,70063000.0,86128000.0,439200000.0,KRW,0.037,South Korea,True,False,,Net-zero by 2050,Tech,395280.0,40.64
+Samsung,2020,5726300.0,11852400.0,65591000.0,83169700.0,455800000.0,KRW,0.039,South Korea,True,False,,Net-zero by 2050,Tech,410220.0,42.85
+Samsung,2021,7604000.0,12566000.0,123234900.0,143404900.0,259300000.0,KRW,0.078,South Korea,True,False,,Net-zero by 2050,Tech,233370.0,86.43
+Samsung,2022,5972000.0,13920000.0,124715000.0,144607000.0,280945000.0,KRW,0.071,South Korea,True,False,,Net-zero by 2050,Tech,252850.5,78.67
+TSMC,2018,2125725.0,7001655.0,4315604.0,13442984.0,1031000.0,TWD,8.853,Taiwan,True,False,,Net-zero by 2050,Tech,30930.0,295.1
+TSMC,2019,2071743.0,7350195.0,5307729.0,14729667.0,1069950.0,TWD,8.806,Taiwan,True,False,,Net-zero by 2050,Tech,32098.5,293.53
+TSMC,2020,2010692.0,8282509.0,5571946.0,15865147.0,1339000.0,TWD,7.687,Taiwan,True,False,,Net-zero by 2050,Tech,40170.0,256.24
+TSMC,2021,2151937.0,9196964.0,6127157.0,17476058.0,1587420.0,TWD,7.149,Taiwan,True,False,,Net-zero by 2050,Tech,47622.6,238.31
+TSMC,2022,2018789.0,10893689.0,7429158.0,20341636.0,2264000.0,TWD,5.703,Taiwan,True,False,,Net-zero by 2050,Tech,67920.0,190.11
