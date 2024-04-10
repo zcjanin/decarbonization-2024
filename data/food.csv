@@ -1,47 +1,47 @@
-COMPANY NAME,YEAR,SCOPE 1,SCOPE 2 (location-based),SCOPE 3,TOTAL EMISSIONS,TOTAL REVENUE (miillion $),CURRENCY,"CARBON INTENSITY
-(Scope 1 & 2 g CO2e / $ Sales)",COUNTRY OF ORIGIN,SUBMIT TO CDP,SBTi TARGET SET?,SBTI COMMITMENTS,NET-ZERO TARGETS
-Anheuser-Busch InBev,2018,3700760,2383505,24431839,30516104,54619,USD,111.39,Belgium,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-Anheuser-Busch InBev,2019,3600710,2215902,26484447,32301059,52329,USD,111.15,Belgium,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-Anheuser-Busch InBev,2020,3081905,2227758,23652933,28962596,46881,USD,113.26,Belgium,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-Anheuser-Busch InBev,2021,2953896,2243990,26527444,31725330,54304,USD,95.72,Belgium,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-Anheuser-Busch InBev,2022,2843883,2029211,24136111,29009205,57786,USD,84.33,Belgium,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-Danone,2018,753461,959554,24885804,26598819,24651,EUR,69.49,France,Yes,Yes,[Near-term targets set],Carbon neutral by 2050
-Danone,2019,722103,944877,46176955,47843935,25287,EUR,65.92,France,Yes,Yes,[Near-term targets set],Carbon neutral by 2051
-Danone,2020,668354,864710,26077215,27610279,25287,EUR,60.63,France,Yes,Yes,[Near-term targets set],Carbon neutral by 2052
-Danone,2021,682674,812948,23733344,25228966,24281,EUR,61.60,France,Yes,Yes,[Near-term targets set],Carbon neutral by 2053
-Danone,2022,666000,762805,22367000,23795805,27661,EUR,51.65,France,Yes,Yes,[Near-term targets set],Carbon neutral by 2054
-Diageo,2018,553270,179307,2665182,3397759,12163,GBP,60.23,England,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2030
-Diageo,2019,511593,165095,2764857,3441545,12867,GBP,52.59,England,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2031
-Diageo,2020,476782,143905,2608674,3229361,11752,GBP,52.82,England,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2032
-Diageo,2021,445000,142530,4754945,5342475,12733,GBP,46.14,England,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2033
-Diageo,2022,436000,157784,5723256,6317040,15452,GBP,38.43,England,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero across scope 1&2 + halve scope 3 by 2034
-Kellogg’s,2018,483061,650835,12761542,13895438,13547,USD,83.70,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2050
-Kellogg’s,2019,465885,590739,8128427,9185051,13578,USD,77.82,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2051
-Kellogg’s,2020,465042,587999,6449011,7502052,13770,USD,76.47,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2052
-Kellogg’s,2021,503905,568692,5723300,6795897,14181,USD,75.64,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2053
-Kellogg’s,2022,497203,553526,6784604,7835333,15315,USD,68.61,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Reduce absolute scope 1&2 by 65% + scope 3 emissions by 50% by 2054
-Molson Coors,2018,436457,667174,4933363,6036994,13338,USD,82.74,"Canada, United States",Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2025"
-Molson Coors,2019,406377,634136,4572089,5612602,13009,USD,79.98,"Canada, United States",Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2026"
-Molson Coors,2020,398026,604422,4257376,5259824,11724,USD,85.51,"Canada, United States",Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2027"
-Molson Coors,2021,606319,342069,3961062,4909450,12450,USD,76.18,"Canada, United States",Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2028"
-Molson Coors,2022,603321,341701,3731920,4676942,12808,USD,73.78,"Canada, United States",Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by atleast 2050, reduce emissions in direct operations by 50% + decrease emissions by 2-% across value chain by 2029"
-Nestlé,2018,3289012,3082573,107145316,113516901,91439,CHF,69.68,Switzerland,Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2030"
-Nestlé,2019,3246367,3089029,107145316,113480712,92568,CHF,68.44,Switzerland,Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2031"
-Nestlé,2020,3215404,3052234,117000828,123268466,84300,CHF,74.35,Switzerland,Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2032"
-Nestlé,2021,3372000,2600000,113720072,119692072,87088,CHF,68.57,Switzerland,Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2033"
-Nestlé,2022,3240000,760000,108900000,112900000,94000,CHF,42.55,Switzerland,Yes,Yes,"[Near-term targets set, net-zero targets set]","Net-zero by 2050, 20% by 2025, 50% by 2034"
-PepsiCo,2018,3577266,1629973,58668530,63875769,64661,USD,80.53,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-PepsiCo,2019,3552415,1556523,48366225,53475163,67161,USD,76.07,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-PepsiCo,2020,3552706,1719610,52604866,57877182,70372,USD,74.92,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-PepsiCo,2021,3596712,1811114,56388182,61796008,79474,USD,68.05,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-PepsiCo,2022,3481530,1834309,54947765,60263604,86392,USD,61.53,United States,Yes,Yes,"[Near-term targets set, net-zero committed]",Net-zero by 2040 across value chain
-Tesco,2018,1117480,995543,59795068,61908091,63911,GBP,33.06,England,Yes,No,n/a,"Carbon neutral by 2035, net-zero by 2050"
-Tesco,2019,1105183,859583,59817490,61782256,56500,GBP,34.77,England,Yes,No,n/a,"Carbon neutral by 2035, net-zero by 2051"
-Tesco,2020,1053131,718222,56241579,58012932,57887,GBP,30.60,England,Yes,No,n/a,"Carbon neutral by 2035, net-zero by 2052"
-Tesco,2021,1110098,642337,60258134,62010569,61344,GBP,28.57,England,Yes,No,n/a,"Carbon neutral by 2035, net-zero by 2053"
-Tesco,2022,1039346,575462,75854334,77469142,65762,GBP,24.56,England,Yes,No,n/a,"Carbon neutral by 2035, net-zero by 2054"
-Unilever,2018,752804,1430659,60419810,62603273,50982,EUR,42.83,"Netherlands, United Kingdom",Yes,Yes,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2039"
-Unilever,2019,659028,1321648,56779687,58760363,51980,EUR,38.10,"Netherlands, United Kingdom",Yes,Yes,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2040"
-Unilever,2020,606771,1264328,58300345,60171445,50724,EUR,36.89,"Netherlands, United Kingdom",Yes,Yes,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2041"
-Unilever,2021,565988,1244505,61445738,63256230,52444,EUR,34.52,"Netherlands, United Kingdom",Yes,Yes,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2042"
-Unilever,2022,503909,1224997,56442279,58171185,60073,EUR,28.78,"Netherlands, United Kingdom",Yes,Yes,"[Near-term targets set, net-zero committed]","Net-zero in operations by 2030, net zero emissions across value chain by 2043"
+COMPANY NAME,YEAR,SCOPE 1,SCOPE 2 (location-based),SCOPE 2 (market-based),SCOPE 3,TOTAL EMISSIONS,TOTAL REVENUE (miillion $),CURRENCY,"CARBON INTENSITY
+(Scope 1 & 2 g CO2e / $ Sales)",COUNTRY OF ORIGIN,SUBMIT TO CDP,GROWTH RATE,COMPANY SIZE
+Anheuser-Busch InBev,2018,3700760,2383505,2059760,24431839,30516104,54619,USD,111.39,Belgium,Yes,n/a,
+Anheuser-Busch InBev,2019,3600710,2215902,1761444,26484447,32301059,52329,USD,111.15,Belgium,Yes,-4.19,
+Anheuser-Busch InBev,2020,3081905,2227758,1633815,23652933,28962596,46881,USD,113.26,Belgium,Yes,-10.41,
+Anheuser-Busch InBev,2021,2953896,2243990,1456823,26527444,31725330,54304,USD,95.72,Belgium,Yes,15.83,
+Anheuser-Busch InBev,2022,2843883,2029211,826257,24136111,29009205,57786,USD,84.33,Belgium,Yes,6.41,
+Danone,2018,753461,959554,678759,24885804,27277578,24651,EUR,69.49,France,Yes,n/a,
+Danone,2019,722103,944877,588156,46176955,48432091,25287,EUR,65.92,France,Yes,2.58,
+Danone,2020,668354,864710,479210,26077215,28089489,25287,EUR,60.63,France,Yes,0.00,
+Danone,2021,682674,812948,294896,23733344,25523862,24281,EUR,61.60,France,Yes,-3.98,
+Danone,2022,666000,762805,276355,22367000,24072160,27661,EUR,51.65,France,Yes,13.92,
+Diageo,2018,553270,179307,73771,2665182,3471530,12163,GBP,60.23,England,Yes,n/a,
+Diageo,2019,511593,165095,74172,2764857,3515717,12867,GBP,52.59,England,Yes,5.79,
+Diageo,2020,476782,143905,29682,2608674,3259043,11752,GBP,52.82,England,Yes,-8.67,
+Diageo,2021,445000,142530,36136,4754945,5378611,12733,GBP,46.14,England,Yes,8.35,
+Diageo,2022,436000,157784,11334,5723256,6328374,15452,GBP,38.43,England,Yes,21.35,
+Kellogg’s,2018,483061,650835,539719,12761542,14435157,13547,USD,83.70,United States,Yes,n/a,
+Kellogg’s,2019,465885,590739,473880,8128427,9658931,13578,USD,77.82,United States,Yes,0.23,
+Kellogg’s,2020,465042,587999,443725,6449011,7945777,13770,USD,76.47,United States,Yes,1.41,
+Kellogg’s,2021,503905,568692,411496,5723300,7207393,14181,USD,75.64,United States,Yes,2.98,
+Kellogg’s,2022,497203,553526,368564,6784604,8203897,15315,USD,68.61,United States,Yes,8.00,
+Molson Coors,2018,436457,667174,667174,4933363,6704168,13338,USD,82.74,"Canada, United States",Yes,n/a,
+Molson Coors,2019,406377,634136,634136,4572089,6246738,13009,USD,79.98,"Canada, United States",Yes,-2.47,
+Molson Coors,2020,398026,604422,604422,4257376,5864246,11724,USD,85.51,"Canada, United States",Yes,-9.88,
+Molson Coors,2021,606319,342069,342069,3961062,5251519,12450,USD,76.18,"Canada, United States",Yes,6.19,
+Molson Coors,2022,603321,341701,341701,3731920,5018643,12808,USD,73.78,"Canada, United States",Yes,2.88,
+Nestlé,2018,3289012,3082573,2434401,107145316,115951302,91439,CHF,69.68,Switzerland,Yes,n/a,
+Nestlé,2019,3246367,3089029,2215450,107145316,115696162,92568,CHF,68.44,Switzerland,Yes,1.23,
+Nestlé,2020,3215404,3052234,1898395,117000828,125166861,84300,CHF,74.35,Switzerland,Yes,-8.93,
+Nestlé,2021,3372000,2600000,1610000,113720072,121302072,87088,CHF,68.57,Switzerland,Yes,3.31,
+Nestlé,2022,3240000,760000,757454,108900000,113657454,94000,CHF,42.55,Switzerland,Yes,7.94,
+PepsiCo,2018,3577266,1629973,1558167,58668530,65433936,64661,USD,80.53,United States,Yes,n/a,
+PepsiCo,2019,3552415,1556523,1425255,48366225,54900418,67161,USD,76.07,United States,Yes,3.87,
+PepsiCo,2020,3552706,1719610,857398,52604866,58734580,70372,USD,74.92,United States,Yes,4.78,
+PepsiCo,2021,3596712,1811114,683136,56388182,62479144,79474,USD,68.05,United States,Yes,12.93,
+PepsiCo,2022,3481530,1834309,750058,54947765,61013662,86392,USD,61.53,United States,Yes,8.70,
+Tesco,2018,1117480,995543,256446,59795068,61908091,63911,GBP,33.06,England,Yes,n/a,
+Tesco,2019,1105183,859583,81531,59817490,61782256,56500,GBP,34.77,England,Yes,-11.60,
+Tesco,2020,1053131,718222,13631,56241579,58012932,57887,GBP,30.60,England,Yes,2.45,
+Tesco,2021,1110098,642337,16107,60258134,62010569,61344,GBP,28.57,England,Yes,5.97,
+Tesco,2022,1039346,575462,7796,75854334,77469142,65762,GBP,24.56,England,Yes,7.20,
+Unilever,2018,752804,1430659,826076,60419810,62603273,50982,EUR,42.83,"Netherlands, United Kingdom",Yes,n/a,
+Unilever,2019,659028,1321648,443897,56779687,58760363,51980,EUR,38.10,"Netherlands, United Kingdom",Yes,1.96,
+Unilever,2020,606771,1264328,171906,58300345,60171445,50724,EUR,36.89,"Netherlands, United Kingdom",Yes,-2.42,
+Unilever,2021,565988,1244505,144752,61445738,63256230,52444,EUR,34.52,"Netherlands, United Kingdom",Yes,3.39,
+Unilever,2022,503909,1224997,117773,56442279,58171185,60073,EUR,28.78,"Netherlands, United Kingdom",Yes,14.55,
