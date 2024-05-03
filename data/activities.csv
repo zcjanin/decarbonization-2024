@@ -1,0 +1,43 @@
+,,Committments,,Investments,,,,,,,Actionable Metrics,,,,Efficiency ,,,,Substitutions,,,,,Supply Chain Engagement,,,
+Company Name,Sector,Supply Chain Disclosure (Scope 3),Quantitative Emissions Targets,Internal Decarb Fund,External Decarb Investment Fund,Green Bond,Investments in Onsite Renewable Energy,Purchase of Carbon Offsets,Purchase of Carbon Removal,Purchase of RECs,Internal Price on Carbon,Capital Investments aligned with Carbon Goals,Product Specific Carbon Metric (CO2/X),LCA of Products,Manufacturing Energy Efficiency,Building Energy Efficiency,Materials Use Efficiency,Transportation Route Optimization,Procurement of Renewable Energy,Procurement of Lower Carbon Materials,Fuel Switching,Transportation Mode Switching,Product Redesign,Requiring Suppliers to Disclose Carbon,Requiring Suppliers to Reduce Carbon,Training Program,Loan Program
+Alphabet,Tech,1,1, n/a,1,0,1,n/a,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+Amazon,Tech,1,1,1,n/a,0,n/a,1,1,n/a,0,0,n/a,1,1,1,1,1,1,1,1,1,1,1,0.5,n/a,0
+Apple,Tech,1,1,1,1,1,1,1,1,1,0,1,n/a,1,1,1,1,0,1,1,1,1,1,1,0.5,1,0
+Meta,Tech,1,1,1,0,0,,n/a,1,1,0,1,0,1,0,1,1,0,1,1,1,1,1,0,0,0.5,0
+Microsoft,Tech,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0
+Samsung,Tech,1,0,1,1,0,n/a,0,0,1,1,0,n/a,1,1,1,1,0,1,n/a,0,1,n/a,1,1,1,1
+TSMC,Tech,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0.5,1,0
+Anheuser-Busch InBev,Food,1,1,0,1,0,n/a,1,n/a,n/a,0,0,0,1,1,1,0,1,1,1,1,1,1,n/a,n/a,1,0
+Danone,Food,1,1,n/a,1,0,0,1,0,n/a,1,0,n/a,1,0,0,0,1,1,1,1,0,0,0,0,1,0
+Diageo,Food,1,1,n/a,1,0,1,1,1,n/a,0,0,0,1,1,1,1,n/a,n/a,1,1,1,1,0.5,n/a,n/a,0
+Kellogg's,Food,1,1,n/a,1,0,1,0,n/a,0,1,n/a,0,n/a,n/a,1,1,0,1,1,0,0,n/a,1,0.5,1,0
+Molson Coors,Food,1,1,n/a,1,0,n/a,0,0,1,0,n/a,n/a,n/a,1,1,1,0,n/a,1,0,0,1,0,0,0,0
+Nestlé,Food,1,1,n/a,1,0,n/a,1,1,1,0.5,0.5,0,1,1,0,1,0,1,1,1,1,0,n/a,0.5,1,0
+PepsiCo,Food,1,1,1,1,1,1,1,n/a,1,1,n/a,0,1,1,1,1,0,1,n/a,1,1,1,1,1,1,0
+Tesco,Food,1,0,0,0,1,0.5,n/a,0,1,0,0,0,1,n/a,1,0,1,1,1,1,1,0,1,1,1,0
+Unilever,Food,1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,0,0,1,0
+BP,Energy,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0.5,0,0
+Chevron,Energy,1,0,1,1,0,n/a,1,1,1,n/a,n/a,0,n/a,1,0,1,0,n/a,n/a,1,0,0,0,0,0,0
+EDF,Energy,1,0,n/a,1,0,1,0,0,0,1,0,0,1,1,1,1,0,n/a,n/a,1,1,0,0,0,0,0
+Enel,Energy,1,1,n/a,n/a,1,1,0,0,0,1,1,0,1,n/a,n/a,1,0,n/a,n/a,1,0,0,0,0.5,1,0
+Equinor,Energy,1,1,n/a,1,0,1,1,n/a,n/a,1,1,0,0,0,0,1,0,n/a,1,1,0,0,1,1,0,0
+Exxon,Energy,1,0,1,1,0,0,0,1,0,n/a,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Orsted,Energy,1,n/a,1,1,1,n/a,1,1,1,1,1,0,1,1,n/a,1,1,1,1,1,1,0,0,0.5,0,0
+Oxy,Energy,1,1,1,1,0,n/a,0,1,n/a,1,1,0,1,1,1,n/a,0,0,n/a,1,0,0,0.5,0,0,0
+Gazprom,Energy,0,0,0,0,0,0,n/a,n/a,0,n/a,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+PetroChina,Energy,0,0,0,1,0,0,1,1,0,n/a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rosneft,Energy,0,0,1,1,0,0,1,1,0,n/a,n/a,0,1,1,n/a,n/a,0,1,0,1,0,0,0,0,0,0
+Saudi Aramco,Energy,0,n/a,1,n/a,0,n/a,1,1,n/a,n/a,0,0,0,1,0,1,0,n/a,0,n/a,0,0,0,0,0,0
+Shell,Energy,1,1,n/a,1,0,1,1,1,n/a,1,0,0,0,1,0,n/a,0,1,1,1,0,0,0,0.5,0,0
+BMW,Auto,1,0,n/a,n/a,0,n/a,1,n/a,n/a,1,n/a,0,0,1,1,1,0,1,n/a,1,0,1,0,0,0,0
+BYD,Auto,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
+Daimler/Mercedes,Auto,1,n/a,n/a,n/a,0,n/a,n/a,0,0,1,0,0,1,1,1,1,0,n/a,1,1,0,n/a,0,0,0,0
+Fiat-Chrysler,Auto,1,1,n/a,n/a,0,1,1,1,0,n/a,1,0,1,1,1,1,0,1,1,1,1,1,0.5,0.5,1,0
+Ford,Auto,1,1,n/a,1,0,n/a,1,1,n/a,1,0,0,1,n/a,1,1,0,1,1,0,1,1,0.5,1,0,0
+Geely,Auto,1,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
+General Motors,Auto,1,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
+Honda,Auto,1,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
+Hyundai,Auto,n/a,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
+Toyota,Auto,1,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
+Tesla,Auto,1,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
+Volkswagen,Auto,1,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,0
